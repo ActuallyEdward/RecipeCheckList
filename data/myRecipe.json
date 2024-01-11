@@ -1,0 +1,82 @@
+{"Recipes": [
+    {
+        "name": "Tea",
+        "rating": 4,
+        "ingredients": [
+            "water",
+            "tea"
+        ],
+        "style": "Eastern"
+    },
+    {
+        "name": "RicePudding",
+        "rating": 4,
+        "ingredients": [
+            "water",
+            "rice",
+            "sugar"
+        ],
+        "style": "Western"
+    },
+    {
+        "name": "Rice",
+        "rating": 3,
+        "ingredients": [
+            "rice",
+            "water"
+        ],
+        "style": "Eastern"
+    },
+    {
+        "name": "Steak",
+        "rating": 4,
+        "ingredients": [
+            "Steak",
+            "pepper",
+            "thyme"
+        ],
+        "style": "Western"
+    },
+    {
+        "name": "Steak Updated",
+        "rating": 4,
+        "ingredients": [
+            "Steak",
+            "pepper",
+            "thyme",
+            "water"
+        ],
+        "style": "Western"
+    },
+    {
+        "name": "Tea Updated",
+        "rating": 4,
+        "ingredients": [
+            "water",
+            "tea",
+            "water"
+        ],
+        "style": "Eastern"
+    },
+    {
+        "name": "Rice Updated",
+        "rating": 3,
+        "ingredients": [
+            "rice",
+            "water",
+            "water"
+        ],
+        "style": "Eastern"
+    },
+    {
+        "name": "RicePudding Updated",
+        "rating": 4,
+        "ingredients": [
+            "water",
+            "rice",
+            "sugar",
+            "water"
+        ],
+        "style": "Western"
+    }
+]}

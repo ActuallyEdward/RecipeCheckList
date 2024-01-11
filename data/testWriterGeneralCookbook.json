@@ -1,0 +1,20 @@
+{"Recipes": [
+    {
+        "name": "rice",
+        "rating": 4,
+        "ingredients": [
+            "rice",
+            "water"
+        ],
+        "style": "Eastern"
+    },
+    {
+        "name": "tea",
+        "rating": 4,
+        "ingredients": [
+            "tea",
+            "water"
+        ],
+        "style": "Eastern"
+    }
+]}
